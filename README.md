@@ -8,9 +8,9 @@
 ---
 
 - 🔭 I’m currently working on **Smart Face Attendance System** (with AI-based liveness detection)
-- 🌱 Currently learning **Spring Boot, Data Structures, and AI Technologies**
+- 🌱 Holdes Good Knowledge in **MERN Stack, Data Structures, and Data Analyst**
 - 👯 Actively looking to **collaborate on Open Source Projects**
-- 🤝 Seeking mentorship for **Advanced AI and Backend Development**
+- 🤝 Seeking mentorship for **Full Stack Development and Backend Development**
 - 📫 Reach me at: **sauravmehta786@gmail.com**
 - ⚡ Fun fact: **Love automating daily tasks and solving real-world problems through coding!**
 
@@ -44,6 +44,10 @@
 </p>
 
 ---
+### 🚀 Achievements:
+
+- ⭐ **700+ GitHub contributions** in the last year!
+- ⭐ Consistently active with real-world coding, open source, and project development!
 
 ## 🏆 GitHub Trophies:
 
@@ -55,34 +59,36 @@
 
 ## 🧩 LeetCode Achievements:
 
-- **Total Submissions**: 440+ problems solved
-- **Languages Used**: C++, MySQL, Java
+- **Total Submissions**: **377+**
+- **160+ problems solved**
+- **Languages Used**: JAVA, C++, Python
 - **Skills**:
-  - Advanced: Dynamic Programming (112 problems), Backtracking (24), Divide and Conquer (9)
-  - Intermediate: Hash Table (81), Math (64), Depth-First Search (51)
-  - Fundamental: Array (264), String (109), Matrix (44)
+  - Advanced: Dynamic Programming (22 problems), Hash Table (42), Shortest Path (5)
+  - Intermediate: Hash Table (42), Math (22), Greedy (15)
+  - Fundamental: Array (93), String (41), Two Pointers (28)
 - **Contest Rating**: 1,591
 - **Global Ranking**: 160,138 out of 674,546
 - **Contests Attended**: 33
 
 ### 🏅 Recent LeetCode Badges (Past Year):
 <p align="left">
-  <img src="https://leetcode.com/static/images/badges/2024/lg/2024-annual-50.png" alt="50 Days Badge 2024" width="80"/>
-  <img src="https://leetcode.com/static/images/badges/2024/lg/2024-annual-100.png" alt="100 Days Badge 2024" width="80"/>
-  <img src="https://leetcode.com/static/images/badges/daily/2024-10-lg.png" alt="Oct Badge" width="80"/>
-  <img src="https://leetcode.com/static/images/badges/daily/2024-09-lg.png" alt="Sep Badge" width="80"/>
-  <img src="https://camo.githubusercontent.com/a3de9a20e9bd14e49d1aaf888e5232d7fb213cf15c757f0d66d721886f07c9a8/68747470733a2f2f6c656574636f64652e636f6d2f7374617469632f696d616765732f6261646765732f323032322f6c672f323032322d616e6e75616c2d35302e706e67" alt="50 Days Badge 2022" width="80"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 Days Badge 2024" width="80"/>
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100 Days Badge 2024" width="80"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="Aug Badge" width="80"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-9.png" alt="Sep Badge" width="80"/>
+  <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" alt="Oct Badge" width="80"/>
 </p>
 
 ### 🗓️ LeetCode Submissions (Past Year):
 
 <p align="center">
-  <div style="border: 2px solid #f0f0f0; padding: 10px; border-radius: 5px;">
-    Based on your LeetCode profile, you have made
-    <span style="font-weight: bold; color: #007bff; background-color: yellow;">378 submissions</span>
+  <div style="border:2px solid #f0f0f0; padding:10px; border-radius:5px;">
+    Based on LeetCode profile, I have made  
+    <strong><font color="#007bff"><b>378 submissions</b></font></strong>
     in the past year.
   </div>
 </p>
+
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sauravkmehta24?theme=dark&font=Space%20Grotesk" alt="Saurav Mehta LeetCode Stats" />
