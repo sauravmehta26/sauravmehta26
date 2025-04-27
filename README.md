@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saurav Mehta</h1>
-<h3 align="center">A passionate developer exploring Full Stack Development and AI-based projects.</h3>
+<h3 align="center">A passionate developer exploring Full Stack Development and Data-Analyst projects.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Love+Building+Projects;Always+Learning+New+Things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Love+Building+Projects;Always+Eager+To+Learn+New+Things&center=true&width=380&height=45">
 </p>
 
 ---
