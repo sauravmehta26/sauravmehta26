@@ -1,23 +1,66 @@
-# 👋 Hi there, I'm Saurav Mehta
+<h1 align="center">Hi 👋, I'm Saurav Mehta</h1>
+<h3 align="center">A passionate developer exploring Full Stack Development and AI-based projects.</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer from Bhubaneswar, India, with interests in building innovative solutions and exploring new technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Love+Building+Projects;Always+Learning+New+Things&center=true&width=380&height=45">
+</p>
 
-## 🔧 Technologies & Tools
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- 🔭 I’m currently working on **Smart Face Attendance System**
+- 🌱 I’m currently learning **Spring Boot and AI Technologies**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 🤝 I’m looking for help with **Advanced AI Techniques**
+- 📫 How to reach me: **sauravmehta786@gmail.com**
+- ⚡ Fun fact: **I love exploring new tech trends and creating projects out of them!**
 
-## 📈 GitHub Stats
+---
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=sauravmehta26&show_icons=true&theme=radical)
+## 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-## 📫 How to reach me
+---
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sauravmehta26&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravmehta26&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmehta26&layout=compact&theme=tokyonight" width="50%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sauravmehta26&theme=tokyonight&no-frame=true&row=2&column=3" />
+</p>
+
+---
+
+## 📫 Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/saurav-mehta-ldin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:sauravmehta786@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="https://leetcode.com/u/sauravkmehta24/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
+</p>
+
+---
+
 
 
 <!--
