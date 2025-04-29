@@ -7,12 +7,15 @@
 
 ---
 
-- 🔭 I’m currently working on **Smart Face Attendance System** (with AI-based liveness detection)
-- 🌱 Holdes Good Knowledge in **MERN Stack, Data Structures, and Data Analyst**
-- 👯 Actively looking to **collaborate on Open Source Projects**
-- 🤝 Seeking mentorship for **Full Stack Development and Backend Development**
-- 📫 Reach me at: **sauravmehta786@gmail.com**
-- ⚡ Fun fact: **Love automating daily tasks and solving real-world problems through coding!**
+👋 I’m a final-year MCA student passionate about building full-stack web applications and solving real-world problems with data-driven solutions.
+
+---
+
+- 🔭 Currently working on: **Smart Face Attendance System** (with AI-based liveness detection)  
+- 🌱 Learning: **Backend Development**, **Database Optimization**, and **Data Visualization**  
+- 👯 Open to: **Collaborations**, **Internships**, and **Mentorship**  
+- 📫 Email: [sauravmehta786@gmail.com](mailto:sauravmehta786@gmail.com)  
+- ⚡ Fun Fact: I enjoy automating repetitive tasks using Python scripts!
 
 ---
 
@@ -44,10 +47,6 @@
 </p>
 
 ---
-### 🚀 Achievements:
-
-- ⭐ **700+ GitHub contributions** in the last year!
-- ⭐ Consistently active with real-world coding, open source, and project development!
 
 ## 🏆 GitHub Trophies:
 
@@ -57,20 +56,31 @@
 
 ---
 
+### 🚀 Achievements:
+
+- ⭐ **700+ GitHub contributions** in the last year  
+- 🔁 Consistently active in real-world coding, open source, and project development  
+
+---
+
 ## 🧩 LeetCode Achievements:
 
-- **Total Submissions**: **377+**
-- **160+ problems solved**
-- **Languages Used**: JAVA, C++, Python
-- **Skills**:
-  - Advanced: Dynamic Programming (22 problems), Hash Table (42), Shortest Path (5)
-  - Intermediate: Hash Table (42), Math (22), Greedy (15)
-  - Fundamental: Array (93), String (41), Two Pointers (28)
-- **Contest Rating**: 1,591
-- **Global Ranking**: 160,138 out of 674,546
-- **Contests Attended**: 33
+- **Total Submissions**: 377+  
+- **Problems Solved**: 160+  
+- **Languages Used**: Java, C++, Python  
 
-### 🏅 Recent LeetCode Badges (Past Year):
+**Skills by Category**:
+- 🔷 Advanced: Dynamic Programming (22), Hash Table (42), Shortest Path (5)  
+- 🔶 Intermediate: Math (22), Greedy (15)  
+- 🔸 Fundamental: Array (93), String (41), Two Pointers (28)  
+
+**Stats**:
+- 📊 Contest Rating: **1,591**  
+- 🌍 Global Rank: **160,138 / 674,546**  
+- 🧠 Contests Attended: **33**
+
+### 🏅 LeetCode Badges (Past Year):
+
 <p align="left">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 Days Badge 2024" width="80"/>
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.png" alt="100 Days Badge 2024" width="80"/>
@@ -79,16 +89,7 @@
   <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" alt="Oct Badge" width="80"/>
 </p>
 
-### 🗓️ LeetCode Submissions (Past Year):
-
-<p align="center">
-  <div style="border:2px solid #f0f0f0; padding:10px; border-radius:5px;">
-    Based on LeetCode profile, I have made  
-    <strong><font color="#007bff"><b>378 submissions</b></font></strong>
-    in the past year.
-  </div>
-</p>
-
+### 📊 LeetCode Submissions (Past Year):
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sauravkmehta24?theme=dark&font=Space%20Grotesk" alt="Saurav Mehta LeetCode Stats" />
@@ -99,11 +100,17 @@
 ## 📫 Let's Connect:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/saurav-mehta-ldin" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:sauravmehta786@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-<a href="https://leetcode.com/u/sauravkmehta24/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" /></a>
+  <a href="https://www.linkedin.com/in/saurav-mehta-ldin" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:sauravmehta786@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://leetcode.com/u/sauravkmehta24/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" />
+  </a>
 </p>
 
 ---
 
-> 🚀 "Code, Build, Solve, Repeat."
+> 🚀 *"Code, Build, Solve, Repeat."*
