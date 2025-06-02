@@ -5,6 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Building+Smart+Projects;Always+Learning&center=true&width=380&height=45">
 </p>
 
+
 ---
 
 👋 I’m a final-year MCA student passionate about building full-stack web applications and solving real-world problems with data-driven solutions.
