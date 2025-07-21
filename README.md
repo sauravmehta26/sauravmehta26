@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saurav Mehta</h1>
-<h3 align="center">A passionate Full Stack Developer and Data Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer with a Passion for Cloud Technologies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Building+Smart+Projects;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Core+Java;SQL+%7C+MongoDB;HTML+%7C+CSS+%7CJavaScript+%7CBootstrap;React+%7C+SpringBoot;Cloud+%7C+AWS;Always+Learning&center=true&width=380&height=45">
 </p>
-
 
 ---
 
-👋 I’m a final-year MCA student passionate about building full-stack web applications and solving real-world problems with data-driven solutions.
+👋 I’m a final-year MCA student passionate about building full-stack web applications and solving real-world problems with cloud-powered solutions.
 
 ---
 
@@ -26,10 +25,10 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -40,7 +39,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sauravmehta26&show_icons=true&theme=tokyonight" width="47%"/>
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauravmehta26&theme=tokyonight" width="50%"/> -->
 </p>
 
 <p align="center">
