@@ -1,37 +1,41 @@
 <h1 align="center">Hi 👋, I'm Saurav Mehta</h1>
-<h3 align="center">Java Full Stack Developer with a Passion for Cloud Technologies</h3>
+<h3 align="center">Java QA Engineer | DevOps Enthusiast | Automation Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Developer;Core+Java;SQL+%7C+MongoDB;HTML+%7C+CSS+%7CJavaScript+%7CBootstrap;React+%7C+SpringBoot;Cloud+%7C+AWS;Always+Learning&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Quality+Assurance+Engineer;Core+Java+%7C+Selenium+%7C+TestNG;CI%2FCD+%7C+Jenkins+%7C+Docker;Automation+Testing+%7C+REST+API;Cloud+%7C+AWS;Always+Improving+Code+Quality&center=true&width=500&height=45">
 </p>
 
 ---
 
-👋 I’m a final-year MCA student passionate about building full-stack web applications and solving real-world problems with cloud-powered solutions.
+🔍 I’m an aspiring Java QA Engineer with a strong interest in automation testing and DevOps practices. I'm currently learning to build reliable testing pipelines, improve test coverage, and understand CI/CD workflows to ensure high-quality software delivery
 
 ---
 
-- 🔭 Currently working on: **Smart Face Attendance System** (with AI-based liveness detection)  
-- 🌱 Learning: **Backend Development**, **Database Optimization**, and **Data Visualization**  
-- 👯 Open to: **Collaborations**, **Internships**, and **Mentorship**  
+- 🔭 Currently working on: **Automated Test Suite for REST APIs** with Jenkins + Selenium Grid  
+- 🌱 Learning: **Kubernetes**, **Advanced Test Automation**, and **Performance Testing with JMeter**  
+- 👯 Open to: **SDET roles**, **DevOps QA internships**, and **Automation projects**  
 - 📫 Email: [sauravmehta786@gmail.com](mailto:sauravmehta786@gmail.com)  
-- ⚡ Fun Fact: I enjoy automating repetitive tasks using Python scripts!
+- ⚡ Fun Fact: I often turn manual QA processes into scripts before my coffee finishes brewing ☕🚀
 
 ---
+
 
 ## 🛠️ Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge"/>
 </p>
+
 
 ---
 
