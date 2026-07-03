@@ -1,45 +1,59 @@
-<h1 align="center">Hi 👋, I'm Saurav Mehta</h1>
-<h3 align="center">Java QA Engineer | DevOps Enthusiast | Automation Lover</h3>
+# Hi 👋, I'm Saurav Mehta
+
+### Java Developer | Backend | DSA Enthusiast | Spring Boot | Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Quality+Assurance+Engineer;Core+Java+%7C+Selenium+%7C+TestNG;CI%2FCD+%7C+Jenkins+%7C+Docker;Automation+Testing+%7C+REST+API;Cloud+%7C+AWS;Always+Improving+Code+Quality&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Java+Developer;Core+Java+%7C+Spring+Boot;DSA+%7C+Problem+Solving;REST+APIs+%7C+SQL;Building+Scalable+Backend+Applications;Always+Learning+%26+Improving&center=true&width=550&height=45">
 </p>
 
 ---
 
-🔍 I’m an aspiring Java QA Engineer with a strong interest in automation testing and DevOps practices. I'm currently learning to build reliable testing pipelines, improve test coverage, and understand CI/CD workflows to ensure high-quality software delivery
+🚀 I'm an aspiring **Java Backend Developer** passionate about building scalable backend applications using **Java** and **Spring Boot**. I'm strengthening my problem-solving skills through **Data Structures & Algorithms** while learning backend development, databases, REST APIs, and system design to build production-ready software.
 
 ---
 
-- 🔭 Currently working on: **Automated Test Suite for REST APIs** with Jenkins + Selenium Grid  
-- 🌱 Learning: **Kubernetes**, **Advanced Test Automation**, and **Performance Testing with JMeter**  
-- 👯 Open to: **SDET roles**, **DevOps QA internships**, and **Automation projects**  
-- 📫 Email: [sauravmehta786@gmail.com](mailto:sauravmehta786@gmail.com)  
-- ⚡ Fun Fact: I often turn manual QA processes into scripts before my coffee finishes brewing ☕🚀
+## 👨‍💻 About Me
+
+- 🔭 Currently working on: **Java Backend Projects & DSA**
+- 🌱 Learning: **Spring Boot, Hibernate, Microservices, SQL, Docker**
+- 👯 Open to: **Java Backend Developer**, **Software Engineer**, and **Backend Engineer** opportunities
+- 📫 Email: **sauravmehta786@gmail.com**
+- ⚡ Fun Fact: I enjoy solving coding problems and turning ideas into scalable backend applications.
 
 ---
 
+# 🛠️ Tech Stack
 
-## 🛠️ Tech Stack:
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge"/>
-</p>
+### Languages
+- Java
+- SQL
 
+### Backend
+- Spring Boot
+- Hibernate
+- REST APIs
+- Maven
+
+### Database
+- MySQL
+
+### Dev Tools
+- Git
+- GitHub
+- Docker
+- Linux
+- Postman
+
+### Testing & Automation
+- Selenium
+- TestNG
+- Jenkins
+- GitHub Actions
+- JMeter
 
 ---
 
-## 📈 GitHub Stats:
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sauravmehta26&show_icons=true&theme=tokyonight" width="47%"/>
@@ -51,38 +65,44 @@
 
 ---
 
-## 🏆 GitHub Trophies:
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sauravmehta26&theme=tokyonight&no-frame=true&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sauravmehta26&theme=tokyonight&no-frame=true&row=2&column=3"/>
 </p>
 
 ---
 
-### 🚀 Achievements:
+# 🚀 Highlights
 
-- ⭐ **700+ GitHub contributions** in the last year  
-- 🔁 Consistently active in real-world coding, open source, and project development  
+- ⭐ 700+ GitHub Contributions
+- 💻 160+ LeetCode Problems Solved
+- 🧠 Active DSA Practice in Java
+- 🚀 Building Java Backend Projects using Spring Boot
 
 ---
 
-## 🧩 LeetCode Achievements:
+# 🧩 LeetCode
 
-- **Total Submissions**: 377+  
-- **Problems Solved**: 160+  
-- **Languages Used**: Java, C++, Python  
+- **Total Submissions:** 377+
+- **Problems Solved:** 160+
+- **Languages:** Java, C++, Python
+- **Contest Rating:** 1591
+- **Global Rank:** 160,138 / 674,546
+- **Contests Attended:** 33
 
-**Skills by Category**:
-- 🔷 Advanced: Dynamic Programming (22), Hash Table (42), Shortest Path (5)  
-- 🔶 Intermediate: Math (22), Greedy (15)  
-- 🔸 Fundamental: Array (93), String (41), Two Pointers (28)  
+### Skills
+- Dynamic Programming
+- Arrays
+- Strings
+- Hash Tables
+- Greedy
+- Two Pointers
+- Graphs
 
-**Stats**:
-- 📊 Contest Rating: **1,591**  
-- 🌍 Global Rank: **160,138 / 674,546**  
-- 🧠 Contests Attended: **33**
 
-### 🏅 LeetCode Badges (Past Year):
+
+### 🏅 LeetCode Badges (Past Year)
 
 <p align="left">
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.png" alt="50 Days Badge 2024" width="80"/>
@@ -92,28 +112,31 @@
   <img src="https://leetcode.com/static/images/badges/dcc-2024-10.png" alt="Oct Badge" width="80"/>
 </p>
 
-### 📊 LeetCode Submissions (Past Year):
+### 📊 LeetCode Submissions (Past Year)
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sauravkmehta24?theme=dark&font=Space%20Grotesk" alt="Saurav Mehta LeetCode Stats" />
 </p>
 
+
 ---
 
-## 📫 Let's Connect:
+# 📫 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/saurav-mehta-ldin" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  <a href="https://www.linkedin.com/in/saurav-mehta-ldin">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sauravmehta786@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+
+  <a href="mailto:sauravmehta786@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/sauravkmehta24/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="leetcode" />
+
+  <a href="https://leetcode.com/u/sauravkmehta24/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-> 🚀 *"Code, Build, Solve, Repeat."*
+> 🚀 **"Building scalable backends, one commit at a time."**
