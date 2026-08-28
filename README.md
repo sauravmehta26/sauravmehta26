@@ -91,10 +91,10 @@
 
 # 🚀 Highlights
 
-- ✅ 40+ Selenium WebDriver automation scripts built and maintained at IZiel Healthcare
-- 🧪 100+ Functional, Regression, Smoke, and Integration test cases executed across releases
-- 📋 10+ FDA-compliant test protocols authored following IEC 62304 and IEC 82304 standards
-- 🔍 30+ functional and UI defects identified and validated through manual and automated testing
+- ✅ 150+ Selenium WebDriver automation scripts built and maintained at IZiel Healthcare
+- 🧪 150+ Functional, Regression, Smoke, and Integration test cases executed across releases
+- 📋 12+ FDA-compliant test protocols authored following IEC 62304 and IEC 82304 standards
+- 🔍 35+ functional and UI defects identified and validated through manual and automated testing
 - 💻 160+ LeetCode Problems Solved | Active DSA Practice in Java
 
 ---
